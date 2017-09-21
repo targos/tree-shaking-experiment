@@ -1,0 +1,24 @@
+{
+  "name": "tree-shaking-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targos/tree-shaking-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/targos/tree-shaking-experiment/issues"
+  },
+  "homepage": "https://github.com/targos/tree-shaking-experiment#readme",
+  "devDependencies": {
+    "rollup": "^0.50.0",
+    "webpack": "^3.6.0"
+  }
+}
